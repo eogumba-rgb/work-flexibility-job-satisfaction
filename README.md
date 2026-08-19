@@ -63,4 +63,4 @@ The analysis selected the relevant survey columns, examined missing values, and 
 
 ## Notebook
 
-[View the complete analysis notebook](remote_work_job_satisfaction %281%29.ipynb)
+[View the complete analysis notebook](remote_work_job_satisfaction%20%281%29.ipynb)
